@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Shivam</h1>
 <p align="center">
-  🚀 Full-Stack Developer | 👨‍🎓 BCA Student | 🛠️ Builder of Cool Tech <br>
+  🚀 Full-Stack Developer | 👨‍🎓 BCA Student | 🛠️ Tech Enthusiast <br>
   <i>Crafting web apps with 💻, ❤️, and a pinch of ☕</i>
 </p>
 
@@ -19,24 +19,20 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `PHP` `C` `C++` `JAVA` `SQL`
+`JavaScript` `TypeScript` `SQL`
 
 **Frontend:**  
-`HTML` `CSS` `Tailwind` `Bootstrap` `React` `Next.js`  
+`HTML` `CSS` `Tailwind` `Bootstrap` `React`   
 
 **Backend & DB:**  
-`Node.js` `Express.js` `PHP` `MySQL` `MongoDB` `Mongoose` `SQL` 
-
-**Real-time & DevOps:**  
-`Socket.IO` `WebSockets` `Redis` `Docker` `Git`  
+`Node.js` `Express.js` `MySQL` `MongoDB` `Mongoose` `SQL` 
 
 ---
 
 ### 💡 I’m Currently Learning
 - 🧠 Advanced **MongoDB + Mongoose**
-- 📱 Building secure, scalable **messaging systems**
-- ⚡ Exploring **microservices** and **event-driven architecture**
-- 🛡️ **End-to-end encryption** for chat apps
+- 📱 Building secure, scalable **E-Commerce Application**
+- ⚡ Exploring **Websocket, Java, DSA, Microservices** and **System Architecture** 
 
 ---
 
