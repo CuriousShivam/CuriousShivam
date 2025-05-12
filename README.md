@@ -9,8 +9,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently pursuing **BCA** and diving deep into full-stack web development
-- 🔭 Working on real-world projects like **chat apps**, **backend systems**, and **freelance platforms**
-- 🌐 Love understanding how big apps like **YouTube, WhatsApp, and Urban Company** work under the hood
+- 🔭 Working on real-world projects like **E-Commerce**, **Chat Application**, and **more**
+- 🌐 Love understanding how big apps work under the hood
 - 📫 Reach me: [shivam.sah2023t@gmail.com](mailto:shivam.sah2023t@gmail.com)
 - 🌱 Learning: `Full Stack`, `MERN Stack`, `Live-Projects` and more!
 
