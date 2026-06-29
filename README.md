@@ -19,20 +19,20 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `SQL`
+`JavaScript` `Java`
 
 **Frontend:**  
-`HTML` `CSS` `Tailwind` `Bootstrap` `React`   
+`HTML` `CSS` `Tailwind` `Bootstrap` `React` `NEXTJS`
 
 **Backend & DB:**  
-`Node.js` `Express.js` `MySQL` `MongoDB` `Mongoose` `SQL` 
+`SPRINGBOOT` `Express.js` `SERVLET` `SQL` `NO-SQL`  
 
 ---
 
 ### 💡 I’m Currently Learning
-- 🧠 Advanced **MongoDB + Mongoose**
-- 📱 Building secure, scalable **E-Commerce Application**
-- ⚡ Exploring **Websocket, Java, DSA, Microservices** and **System Architecture** 
+- 🧠 Advanced **Backend Development, Microservices**
+- 📱 Building Secure, Scalable Applications
+- ⚡ Exploring **Cloud Computing, Gen-AI, Agentic AI** and **System Architecture** 
 
 ---
 
